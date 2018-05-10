@@ -48,7 +48,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </a></td>
 </tr>
 <tr>
-<td valign="top"><td valign="top">Mon Sep 18<br><i>Last day to drop Fall 2017 classes and not receive a grade of "W"</i></td><td valign="top"></td>
+<td valign="top"><td valign="top">Mon Sep 18<br><i>Last day to drop Fall 2018 classes and not receive a grade of "W"</i></td><td valign="top"></td>
 </tr>
 <tr>
 <td valign="top">3</td>    
@@ -173,7 +173,6 @@ Mon 10/30 through Thu 11/2
 <br><br>
 Midterm Self-Assessment DUE 
 <ul>
-<li>Schedule your midterm one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a>
 </li>
 </ul></td>
 </tr>
@@ -302,10 +301,7 @@ Midterm Self-Assessment DUE
 <tr>
 <td valign="top"></td>
 <td valign="top"><strong>Final One on Ones</strong><br>
-Fri 12/15 or Mon 12/18 thru Thu 12/21<br><br><strong></strong> <ul><li>Schedule your final one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a></li></ul>
-<ul>
-<li><a href="https://deangela.gitbooks.io/dm1143-ideation-and-prototyping-fall-2016/content/end-of-semester-deliverables.html">End of Semester Deliverables Due</a></li>
-</ul>
+Fri 12/15 or Mon 12/18 thru Thu 12/21<br><br><strong></strong>
 </strong></td>
 <td valign="top"></td>
 </tr>

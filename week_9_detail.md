@@ -50,10 +50,8 @@ Discuss
  <strong>If you haven't done so, so far, please schedule your midterm one on one</strong><br>
 Mon 10/30 through Thu 11/2
 <br><br>
-Midterm Self-Assessment and Rubric DUE (please slack to deangela before your meeting time) 
+Midterm Self-Assessment and Rubric DUE (please email Clarisa before your meeting time) 
 <ul>
-<li>Schedule your midterm one on one 20min appointment with me here on the above dates only, not before or afterwards: <a href="https://calendly.com/deangela" target="_blank">https://calendly.com/deangela</a>
-</li>
 </ul>
   <a href="creative_process.md">Creative Process Annotated Bibliography and Video Documentary</a> 
         <ul>

@@ -27,7 +27,7 @@
 </ul>
 <strong>Overview of Course / Review Syllabus</strong>
 <ul>
- <li>Please direct message deangela on slack if you find any broken links or typos in the syllabus gitbook.</li>
+ <li>Please email Clarisa if you find any broken links or typos in the syllabus gitbook.</li>
  <li>Discuss course &amp; learning objectives in syllabus</li>
  <li>Reading the weekly schedule. NOTE: Due on date listed</li>
 </ul>

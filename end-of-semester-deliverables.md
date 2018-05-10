@@ -13,7 +13,7 @@
 <li>Letter or Video To Next Cohort</li>
 </ol>
  
-##Create a google drive folder, I&P Fall 2017 and share with deangela.duff@nyu.edu
+##Create a google drive folder, I&P Fall 2018 and share with clarisa.diaz@nyu.edu
 
 with the following files and 
 <ul>
@@ -42,14 +42,14 @@ All students must include:
 
 
 ## Final Rubric AND Final Self Assessment
-*Include in google drive folder, I&P Fall 2017*
+*Include in google drive folder, I&P Fall 2018*
 
 <ul>
 <li>Pinned on slack.
 </ul>
 
 ## Letter or Video to Next Cohort
-*Include in google drive folder, I&P Fall 2017*
+*Include in google drive folder, I&P Fall 2018*
 
 <ul>
 <Li>Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.</li>
