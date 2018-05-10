@@ -202,10 +202,10 @@ _The following list of required readings may be incomplete and is subject to cha
 * Rohde, Mike. [Sketching: the Visual Thinking Power Tool](http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/) A List Apart. January 25, 2011. 
 * Trollbäck, Jakob. [One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/) HOW Design. 23 Jan. 2008. 
 * [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) (available free online)
-* [18F](https://methods.18f.gov/) (available free online)
-* Edwards, Betty. [Drawing on the Right Side of the Brain](https://www.amazon.com/Drawing-Right-Side-Brain-Definitive/dp/1585429201)
-* Albers, Josef. [Interaction of Colors](https://www.amazon.com/Interaction-Color-Anniversary-Josef-Albers/dp/0300179359/ref=sr_1_1?s=books&ie=UTF8&qid=1525976162&sr=1-1&keywords=josef+albers+color+theory)
-*add typography book
+* [18F] (https://methods.18f.gov/) (available free online)
+* Edwards, Betty. [Drawing on the Right Side of the Brain] (https://www.amazon.com/Drawing-Right-Side-Brain-Definitive/dp/1585429201)
+* Albers, Josef. [Interaction of Colors] (https://www.amazon.com/Interaction-Color-Anniversary-Josef-Albers/dp/0300179359/ref=sr_1_1?s=books&ie=UTF8&qid=1525976162&sr=1-1&keywords=josef+albers+color+theory)
+* add typography book
 
 ### REQUIRED MEDIA
 _The following list of required media may be incomplete and is subject to change. Supplemental media may also be recommended during the course. Please see the course website for updates._
