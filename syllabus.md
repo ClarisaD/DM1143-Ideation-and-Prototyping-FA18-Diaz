@@ -196,16 +196,19 @@ If you are student with a disability who is requesting accommodations, please co
 
 ### REQUIRED READINGS
 
-_The following list of required readings may be incomplete and is subject to change. Please see the course website for updates._
+_The following list of required readings may be incomplete and is subject to change. Supplemental readings may also be recommended during the course. Please see the course website for updates._
 
 * Brown, Sunni. [The Miseducation of the Doodle.](http://www.alistapart.com/articles/the-miseducation-of-the-doodle/) A List Apart. January 25, 2011.
 * Rohde, Mike. [Sketching: the Visual Thinking Power Tool](http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/) A List Apart. January 25, 2011. 
 * Trollbäck, Jakob. [One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/) HOW Design. 23 Jan. 2008. 
 * [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) (available free online)
-
+* [18F](https://methods.18f.gov/) (available free online)
+* Edwards, Betty. [Drawing on the Right Side of the Brain](https://www.amazon.com/Drawing-Right-Side-Brain-Definitive/dp/1585429201)
+* Albers, Josef. [Interaction of Colors](https://www.amazon.com/Interaction-Color-Anniversary-Josef-Albers/dp/0300179359/ref=sr_1_1?s=books&ie=UTF8&qid=1525976162&sr=1-1&keywords=josef+albers+color+theory)
+*add typography book
 
 ### REQUIRED MEDIA
-_The following list of required media may be incomplete and is subject to change. Please see the course website for updates._
+_The following list of required media may be incomplete and is subject to change. Supplemental media may also be recommended during the course. Please see the course website for updates._
 
 * [Everything Is A Remix](http://everythingisaremix.info/watch-the-series)
 * [Ira Glass on storytelling](https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008)

@@ -13,19 +13,8 @@ Documentation of your creative process is an integral part of your creative work
 With this in mind, throughout the duration of the semester each student must carefully document all of the work created in this class, from brainstorming sessions with post-it notes to pages in a sketchbook to rough prototypes. You will post this documentation on your process website on a daily or weekly basis.
 
 You have several options:
-* Create a dedicated wordpress via [http://wp.nyu.edu](http://wp.nyu.edu)
-* Create a dedicated [tumblr](http://tumblr.com) for this course only.
-* Get wordpress installed via sites.bxmc.poly.edu (see below) in a directory labeled **ip**
-* If you already have a sites.bxmc.poly.edu account, have elton install another instance of wordpress in a directory labeled **ip** (see below)
-* Alternatively create a **ip** directory if you already have server space of your own via an ISP (Internet Service Provider), and install wordpress in that directory.
+* Create a dedicated [medium](https://medium.com/)for this course only.
+* Create a dedicated [tumblr](https://www.tumblr.com/login?redirect_to=%2Fdashboard)for this course only.
+* Create a dedicated [weebly](https://www.weebly.com/) for this course only.
 
-#### Wordpress Group Registration
-
-If you don’t already have server space, please attend one of the group registrations for sites.bxmc.poly.edu with Elton Kwok, IDM's Technology Director, eltonkwok@nyu.edu, MAGNET 883.
-
-Group registration for IDM server accounts TBD.
-
-Please remember to bring your laptop with you when you visit a session.
-
-If you choose wordpress on bxmc.poly.edu, set up your class website at
-  * http://sites.bxmc.poly.edu/~yourfirstnamelastname/ip
+There are many other options available through searching online. Choose the option that will be easiest for you to post and update your thoughts and work samples for this course. The goal here is to see your process. Later you can take what you want from your blog and build a website with a portfolio collection of your best work.

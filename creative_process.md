@@ -7,54 +7,94 @@ Working in groups of two, you will research, analyze, evaluate, and communicate 
 
 Student | Creator
 --- | --- 
-Alice &amp; Justin | Tim Burton
-Adam &amp; Jessy | Hideo Kojima
-Joseph &amp; Richael | Hayao Miyazaki
-Shehara &amp; Maya | Christopher Nolan 
-Derek &amp; Sawyer | Adam Savage
-Shirley &amp; Chester | Walt Disney
-Sophie &amp; Lauren | Walt Disney
-Rudhi &amp; Vanda | Walt Disney
-Florentina &amp; Anand | Steve Wozniak
-Aryan &amp; Leon | Hans Zimmer
+
 
 Possible Choices \(but not limited to\):
 
+* Woody Allen
+* Wes Anderson
+* Banksy
+* Jean-Michel Basquiat
+* Ingmar Bergman
+* Björk
 * Sarah Blakely \(Spanx\)
+* David Bowie
 * Richard Branson
+* Time Burton
 * John Cage
+* Charlie Chaplin
 * Kyle Cooper
+* Francis Ford Coppola
 * Thomas Edison
 * Albert Einstein
+* Salvador Dali
 * Leonardo Da Vinci
 * Charles Darwin
-* Walt Disney
+* Edgar Degas
+* Guillermo del Toro
+* Bob Dylan
+* Marcel Duchamp
 * Charles & Ray Eames
+* Clint Eastwood
 * Federico Fellini
 * Henry Ford \(Ford Motor Company\)
 * Benjamin Franklin
 * Art Fry \(Post-It Note\)
-* Bill Gates
+* Michel Gondry
 * Juanjo Guarnido 
+* Zaha Hadid
+* Werner Herzog
+* Damien Hirst
 * Alfred Hitchcock
+* David Hockney
 * Jonathan Ive
 * Frida Kahlo
 * Hideo Kojima
+* Stanley Kubrick
+* Yayoi Kusama
+* Barbara Kruger
 * Steve Jobs
+* Donald Judd
 * Sal Khan \(Khan Academy\)
 * Stephen King 
 * [Paul Klee](http://www.openculture.com/2016/03/3900-pages-of-paul-klees-personal-notebooks-are-now-online.html)
+* Jeff Koons
+* Spike Lee
+* Maya Lin
 * David Lynch
-* Hayao Miyazaki 
+* George Lucas
+* Henry Matisse
+* Hayao Miyazaki
+* Claude Monet
 * Christopher Nolan 
 * Gordon Parks
 * Philippe Petit
 * Pablo Picasso
+* Roman Polanski
 * J.K. Rawlings 
 * Robert Rodriguez
 * Mike Rottenberg 
+* Stefan Sagmeister
+* Adam Savage
 * Paula Scher
+* Martin Scorsese
+* Richard Serra
+* Cindy Sherman
+* Patti Smith
+* Steven Spielberg
+* Quentin Tarantino
+* Nikola Tesla
 * Twyla Tharp
+* Vincent van Gogh
+* Kara Walker
+* Jessica Walsh
+* Andy Warhol
+* Carrie Mae Weems
+* Ai Weiwei
+* Orson Welles
+* Steve Wozniak
+* Neil Young
+* Hans Zimmer
 
 The key to your research is a proliferation of references on your subject, particularly interviews, sketchbooks, notebooks, and/or journals or other reflective writing which can give your team insights into the research and design processes of your subject.
 
