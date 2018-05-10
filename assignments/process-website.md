@@ -19,5 +19,5 @@ You have several options:
 * Create a dedicated [tumblr](https://www.tumblr.com/login?redirect_to=%2Fdashboard) for this course only.
 * Create a dedicated [weebly](https://www.weebly.com/) for this course only.
 
-There are many other options available through searching online. Choose the option that will be easiest for you to post and update your thoughts and work samples for this course. The goal here is to see your process. Later you can take what you want from your blog and build a website with a portfolio collection of your best work.
+There are many other options available through searching online. Choose the option that will be easiest for you to post and update your thoughts and work samples for this course. The goal is to see your process. 
 
