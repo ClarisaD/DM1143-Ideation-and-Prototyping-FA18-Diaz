@@ -6,15 +6,15 @@
 
 ```text
 Clarisa Diaz • clarisa.diaz@nyu.edu • Fall 2018 
-Tuesdays & Thursdays • 8:30AM-10:20AM • 2MTC MAGNET 811 • 3 credit hrs       
+Tuesdays & Thursdays • 8:30AM-10:20AM • 2MTC MAGNET 811 • 3 credit hrs
 ```
 
 #### Office hours by appointment or directly after class.
 
 #### Gitbook Repository: [https://clarisadiaz.gitbook.io/dm1143-ideation-and-prototyping-fall-2018/](https://clarisadiaz.gitbook.io/dm1143-ideation-and-prototyping-fall-2018/)
 
-"I have no special talents. I am only passionately curious." <br>
-~Albert Einstein
+"I have no special talents. I am only passionately curious."   
+ ~Albert Einstein
 
 ## Welcome to Ideation & Prototyping!
 
