@@ -24,7 +24,7 @@ with the following files and
 (if applicable) constant input folder with native files:
 
 ## Final Self Assessment
-*Include in google drive folder, I&P Fall 2016*
+*Include in google drive folder, I&P Fall 2018*
 
 Handed out during class and pinned on slack.
 

@@ -13,9 +13,8 @@ Tuesdays & Thursdays • 8:30AM-10:20AM • 2MTC MAGNET 811 • 3 credit hrs
 
 #### Gitbook Repository: [https://clarisadiaz.gitbook.io/dm1143-ideation-and-prototyping-fall-2018/](https://clarisadiaz.gitbook.io/dm1143-ideation-and-prototyping-fall-2018/)
 
-                                          _"I have no special talents. I am only passionately curious."_
-
-                                                                                 _~Albert Einstein_
+"I have no special talents. I am only passionately curious."
+~Albert Einstein_
 
 ## Welcome to Ideation & Prototyping!
 
@@ -223,12 +222,10 @@ See Appendix
 
 ### PROJECTS & ASSIGNMENTS
 
-<<<<<<< HEAD
 All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname_i&p_fa18_assignmentname (i.e. cdiaz_i&p_fa18_assignmentname.pdf)
 
-=======
 All due dates can be found in the calendar. This is just an overview and description of all the projects for the course. Please name ALL files as firstnameinitiallastname\_i&p\_fa18\_assignmentname \(i.e. cdiaz\_i&p\_fa18\_assignmentname.pdf\)
->>>>>>> 2d2d52f99db264d9d309204d788fb481ad2c2a3b
+
 
 #### Projects
 
