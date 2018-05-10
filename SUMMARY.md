@@ -17,7 +17,7 @@
   * [Week 12 Detail Nov 21](schedule/week-12-detail-nov-21.md)
   * [Week 13 Detail Nov 28](schedule/week-13-detail-nov-28.md)
 * [Assignments](assignments/README.md)
-  * [Process Website](assignments/process-website.md)
+  * [Process Blog](assignments/process-website.md)
   * [Notebook or Sketchbook](assignments/notebook-or-sketchbook.md)
   * [Constant Input or Output](assignments/constant-input-or-output.md)
   * [Personal Inventory](assignments/personal-inventory.md)
