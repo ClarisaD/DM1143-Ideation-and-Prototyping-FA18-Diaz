@@ -2,8 +2,6 @@
 
 ![](.gitbook/assets/screen-shot-2018-05-10-at-4.03.41-pm%20%281%29.png)
 
-![NYU](http://engineering.nyu.edu/files/tandon_long_black.png)
-
 #### Integrated Digital Media • Technology, Culture & Society Department
 
 ```text
