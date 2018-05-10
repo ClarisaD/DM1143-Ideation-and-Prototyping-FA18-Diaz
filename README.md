@@ -1,4 +1,10 @@
-# Welcome to Ideation and Prototyping!
+---
+description: >-
+  Ideation and Prototyping (DM-UY 1143), Integrated Digital Media, Tandon School
+  of Engineering, NYU. Fall 2018. Clarisa Diaz
+---
+
+# DM-UY 1143 Ideation and Prototyping
 
 Ideation and Prototyping \(DM-UY 1143\), Integrated Digital Media, Tandon School of Engineering, NYU. Fall 2018. Clarisa Diaz
 
