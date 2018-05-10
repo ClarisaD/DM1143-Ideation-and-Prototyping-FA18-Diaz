@@ -2,7 +2,7 @@
 
 ### Fall 2018 • Clarisa Diaz • Tuesdays and Thursdays • 8:30-10:20am • 2MTC MAGNET 811
 
-## Process Website
+## Process Blog
 
 Documentation of your creative process is an integral part of your creative work; it records the many steps in the creation of a work. This is important because process documentation:
 
