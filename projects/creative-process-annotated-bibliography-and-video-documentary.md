@@ -1,12 +1,15 @@
-### DM-UY 1143 Ideation and Prototyping
-##### Fall 2018 • Clarisa Diaz • Tuesdays and Thursdays • 8:30-10:20am • 2MTC MAGNET 811
+# Creative Process Annotated Bibliography and Video Documentary
 
-# Creative Process Annotated Bibliography & Video Documentary
+### DM-UY 1143 Ideation and Prototyping
+
+#### Fall 2018 • Clarisa Diaz • Tuesdays and Thursdays • 8:30-10:20am • 2MTC MAGNET 811
+
+## Creative Process Annotated Bibliography & Video Documentary
 
 Working in groups of two, you will research, analyze, evaluate, and communicate the research & design processes of a creator from a discipline of your team’s choice. The final form of this research project will be an annotated bibliography and video documentary of 1 to 3 minutes in length.
 
-Student | Creator
---- | --- 
+| Student | Creator |
+| --- | --- |
 
 
 Possible Choices \(but not limited to\):
@@ -119,6 +122,4 @@ Your team’s video documentary must be 1 to 3 minutes long and be executed with
 The process documentary will reveal:
 
 * the discoveries your team made about your subject, and, more specifically how these discoveries will inform or have informed both of your own creative processes, etc.
-
-
 
