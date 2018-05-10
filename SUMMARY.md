@@ -1,6 +1,6 @@
 # Table of contents
 
-* DM-UY 1143 Ideation and Prototyping
+* Welcome to Ideation and Prototyping!
 * [Syllabus](syllabus.md)
 * [Schedule](schedule/README.md)
   * [Week 1 Detail Sep 05](schedule/week-1-detail-sep-05.md)
