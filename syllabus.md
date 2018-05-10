@@ -11,7 +11,7 @@ Tuesdays & Thursdays • 8:30AM-10:20AM • 2MTC MAGNET 811 • 3 credit hrs
 
 #### Office hours by appointment or directly after class.
 
-#### Gitbook Repository:
+#### Gitbook Repository: [https://clarisadiaz.gitbook.io/dm1143-ideation-and-prototyping-fall-2018/](https://clarisadiaz.gitbook.io/dm1143-ideation-and-prototyping-fall-2018/)
 
 _"I have no special talents. I am only passionately curious."_
 
