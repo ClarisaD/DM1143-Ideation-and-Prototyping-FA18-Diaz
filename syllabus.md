@@ -13,8 +13,8 @@ Tuesdays & Thursdays • 8:30AM-10:20AM • 2MTC MAGNET 811 • 3 credit hrs
 
 #### Gitbook Repository: [https://clarisadiaz.gitbook.io/dm1143-ideation-and-prototyping-fall-2018/](https://clarisadiaz.gitbook.io/dm1143-ideation-and-prototyping-fall-2018/)
 
-"I have no special talents. I am only passionately curious."
-~Albert Einstein_
+"I have no special talents. I am only passionately curious." <br>
+~Albert Einstein
 
 ## Welcome to Ideation & Prototyping!
 
