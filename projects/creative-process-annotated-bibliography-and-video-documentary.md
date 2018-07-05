@@ -60,7 +60,7 @@ Possible Choices \(but not limited to\):
 * Donald Judd
 * Sal Khan \(Khan Academy\)
 * Stephen King 
-* [Paul Klee](http://www.openculture.com/2016/03/3900-pages-of-paul-klees-personal-notebooks-are-now-online.html)
+* Paul Klee
 * Jeff Koons
 * Spike Lee
 * Maya Lin
