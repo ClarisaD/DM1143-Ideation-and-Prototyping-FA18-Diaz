@@ -142,12 +142,12 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 **Quantitative Grading Overview**
 
-* 2% [Input Map](assignments/inputs-map.md)
+* 2% [Influences and Interests Collage](assignments/influences-and-interests-collage.md)
 * 2% [Love Letter or Breakup Letter](assignments/love-letter-or-breakup-letter.md)
 * 4% [Object Evolution Timeline](assignments/evolution-timeline.md)
 * 5% [Self Assessments](assignments/self-assessments.md) \(2.5% each\)
 * 10% [Notebook or Sketchbook](assignments/notebook-or-sketchbook.md)
-* 12% [Constant Input Choices](assignments/constant-input-or-output.md)
+* 12% [Constant Input or Output Choices](assignments/constant-input-or-output.md)
 * 14% [Process Blog](assignments/process-blog.md)
 * 20% [Future Dystopia / Utopia Project](projects/future-dystopia-utopia-project.md)
 * 31% [Creative Process Annotated Bibliography & Video Documentary](projects/creative-process-annotated-bibliography-and-video-documentary.md)
@@ -229,9 +229,9 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 #### Assignments
 
-* [Constant Input Choices](assignments/constant-input-or-output.md)
+* [Constant Input or Output Choices](assignments/constant-input-or-output.md)
 * [Personal Inventory](assignments/personal-inventory.md)
-* [Input Map](assignments/inputs-map.md)
+* [Influences and Interests Collage](assignments/influences-and-interests-collage.md)
 * [Process Blog](assignments/process-blog.md)
 * [Love Letter or Breakup Letter](assignments/love-letter-or-breakup-letter.md)
 * [Object Evolution Timeline](assignments/evolution-timeline.md)
