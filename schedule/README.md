@@ -6,9 +6,9 @@
 
 Gitbook is the official source for all dates and assignments; the syllabus is NOT. The syllabus provides a general overview and guideline for the course. The website is a living, dynamic document. Active learning requires flexibility and the investigation of unforeseen paths which may diverge from the specifics outlined below.
 
-**All dates and assignments are subject to change at the discretion of the professor! Gitbook and slack are the official sources for all dates and assignments.**
+**All dates and assignments are subject to change at the discretion of the professor! Gitbook is the official source for all dates and assignments.**
 
-_Gitbook & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on gitbook and/or slack AND in person during class._
+_Gitbook is a living, dynamic source. If there are any changes to the schedule in the syllabus, I will note these changes on gitbook AND in person during class._
 
 OPTIONAL: **Get Training at **[**Tandon's MakerSpace.**](https://wp.nyu.edu/makerspace/training-calendar/)
 
@@ -27,7 +27,7 @@ OPTIONAL: **Get Training at **[**Tandon's MakerSpace.**](https://wp.nyu.edu/make
 | 9 | Oct 31 [**Creative Process Video Documentary DUEFinal Annotated Bibliography DUE\(if applicable\) constant input or output**](week-9-detail-oct-31.md) | Nov 2 Future Dystopia / Utopia Project:[Brainstorm Themes & IdeasIdeate Framing StoryIdeate Message](week-9-detail-oct-31.md) |
 |  | Mon Nov 6 **Last Day to Withdraw** |  |
 | 10 | Nov 7 Future Dystopia / Utopia Project:[Love Letter or Breakup LetterAnnotated BibliographyIterate Framing StoryIterate Message\(if applicable\) constant input or output](week-10-detail-nov-7.md) | Nov 9 Future Dystopia / Utopia Project:[Evolution TimelineAnnotated BibliographyIterate Framing StoryIterate Message](week-10-detail-nov-7.md) |
-| 11 | Nov 14 Future Dystopia / Utopia Project:[\(if applicable\) Revised Evolution TimelineRead "One Designer Shares: How to Use Design to Tell a Story" by Kevin Quinn and respond on process websiteWatch "Ira Glass on storytelling \(all 4 parts\)" on YouTube and respond on process websiteBrainstorm, Sketch, & Map Object\(s\)Brainstorm, Sketch, & Map Delivery MediumSecondary Research\(if applicable\) constant input or output](week-11-detail-nov-14.md) | Nov 16 Future Dystopia / Utopia Project:[Iterate Sketches & Maps of Object\(s\)Iterate Sketches & Maps of Delivery MediumSecondary Research](week-11-detail-nov-14.md) |
+| 11 | Nov 14 Future Dystopia / Utopia Project:[\(if applicable\) Revised Evolution TimelineRead "One Designer Shares: How to Use Design to Tell a Story" by Kevin Quinn and respond on process blogWatch "Ira Glass on storytelling \(all 4 parts\)" on YouTube and respond on process blogBrainstorm, Sketch, & Map Object\(s\)Brainstorm, Sketch, & Map Delivery MediumSecondary Research\(if applicable\) constant input or output](week-11-detail-nov-14.md) | Nov 16 Future Dystopia / Utopia Project:[Iterate Sketches & Maps of Object\(s\)Iterate Sketches & Maps of Delivery MediumSecondary Research](week-11-detail-nov-14.md) |
 | 12 | Nov 22 Future Dystopia / Utopia Project:[Storyboard Draft of Delivery Medium\(OPTIONAL\) Lo-fi Prototype Draft of Delivery MediumLo-fi Physical Prototype Draft of Object or Experience\(if applicable\) constant input or output](week-12-detail-nov-21.md) | Nov 24 NO CLASS: Thanksgiving Holiday |
 | 13 | Nov 28 Future Dystopia / Utopia Project:[Iterate Storyboard Draft of Delivery Medium\(OPTIONAL\) Lo-fi Prototype Draft of Delivery MediumIterate Lo-fi Physical Prototype Draft of Object or Experience\(if applicable\) constant input or output](week-13-detail-nov-28.md) | Nov 30 Future Dystopia / Utopia Project:[Lo-fi Prototype Delivery MediumHi-fi Prototype Draft of Object](week-13-detail-nov-28.md) |
 | 14 | Dec 5 Future Dystopia / Utopia Project:Iterate Lo-fi Prototype Delivery MediumIterate Hi-fi Prototype Draft of Object | Dec 7 Future Dystopia / Utopia Project:Iterate Lo-fi Prototype Delivery MediumIterate Hi-fi Prototype Draft of Object |

@@ -26,7 +26,7 @@ with the following files and
 ## Final Self Assessment
 *Include in google drive folder, I&P Fall 2018*
 
-Handed out during class and pinned on slack.
+Emailed to instructor.
 
 ## Letter or Video to Next Cohort
 *Include in google drive folder, I&P Fall 2016*

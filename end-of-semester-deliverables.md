@@ -43,7 +43,7 @@ All students must include:
 
 _Include in google drive folder, I&P Fall 2018_
 
-* Pinned on slack.
+* Emailed to instructor.
 
 ### Letter or Video to Next Cohort
 

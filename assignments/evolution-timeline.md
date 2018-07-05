@@ -6,9 +6,9 @@
 
 As research for your future utopia / dystopia project, create an evolution timeline by making one of the following:
 
-* an infographic as a pdf \(post on your process website\) **OR** 
-* another video documentary 1 to 3 minutes in length, post on vimeo or youtube, and embed on your process website **OR** 
-* an interactive data visualization and embed within your process website.
+* an infographic as a pdf \(post on your process blog\) **OR** 
+* another video documentary 1 to 3 minutes in length, post on vimeo or youtube, and embed on your process blog **OR** 
+* an interactive data visualization and embed within your process blog.
 
 The timeline should reflect:
 

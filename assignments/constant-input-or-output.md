@@ -15,7 +15,7 @@ An important part of this course is a semester-long project that will challenge 
 
 If you have a hard time coming up with new ideas, or want to focus on improving your observation and reflection skills, this is the option for you.
 
-If you choose this option, your task will be to **keep a Discovery Log on your process website on a daily or weekly basis.** This log should describe what's new and different in your life, and reflect on why it does or doesn't appeal to you.
+If you choose this option, your task will be to **keep a Discovery Log on your process blog on a daily or weekly basis.** This log should describe what's new and different in your life, and reflect on why it does or doesn't appeal to you.
 
 * You must post at least one update per week, though you might find it easier to post several smaller updates throughout the week. Updates must be posted _at least_ one hour before class. 
 * I strongly suggest you _do not wait until the last minute to post your update_, as anything submitted after the deadline will not be accepted. Therefore, I think the best way to tackle this project is to update your Discovery Log whenever you encounter something new.
@@ -35,7 +35,7 @@ What’s new and different in your life in the following categories? Why does it
 
 If you have a hard time finishing projects, or generally want to focus on how you execute new ideas \(rather than focusing on how you generate new ideas\), the constant output option is the one for you. This option could also be referred to as a "passion project."
 
-If you choose this option, your task will be to create and promote a self-directed creative project using social media and/or analog promotional materials. Again, you must post regular updates to your process website. But instead of posting about what you've observed \(as in the constant input option\), you will post about something you've made or are making.
+If you choose this option, your task will be to create and promote a self-directed creative project using social media and/or analog promotional materials. Again, you must post regular updates to your process blog. But instead of posting about what you've observed \(as in the constant input option\), you will post about something you've made or are making.
 
 Remember, your project does not need to be digital or visual. It could be aural \(including music or soundscapes\), culinary, sculptural—there are a gazillion possibilities. **The main requirement is that it is a creative project.**
 
@@ -43,7 +43,7 @@ Remember, your project does not need to be digital or visual. It could be aural 
   * If weekly, at least 12 times
   * If bi-weekly, at least 6 times
   * If monthly, at least 3 times
-* Post or embed within your process website your chosen schedule with specific dates and share the link with your instructor.
+* Post or embed within your process blog your chosen schedule with specific dates and share the link with your instructor.
 * For further reference and inspiration regarding the constant outputs option, check out some of these projects from creators working in vastly different media::
   * [Michael Bierut Five Years of 100 Days](http://designobserver.com/feature/five-years-of-100-days/24678)
   * [Stefan G. Bucher’s Daily Monster](http://www.dailymonster.com/344_loves_you/monsterarchive.html)

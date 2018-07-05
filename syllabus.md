@@ -112,13 +112,11 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Come to class on time and participate \(be present and engaged\)
 * Study outside of class \(ideally with classmate\(s\)
 * Devote at a minimum 4 to 8 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
-* Consult slack at least once a week for up to date info
 * Complete all assignments by due dates
 * Acquire and read all assigned readings before they are due
 * Action – do your absolute best
 * Strive for continuous improvement
-* Direct message me on slack re: contact about logistics \(when, where, how many?\) only
-* Talk to me in person about issues and problems. Do not direct message me long conversations on slack. \(if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.\)
+* Talk to me in person about issues and problems. \(if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.\)
 * Have desire amounting to enthusiasm \(to learn, to explore\)
 * Have patience, persistence, and discipline 
 * Be creative
@@ -134,7 +132,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-* Contact the professor IN ADVANCE if you will not be in class \(in person or via direct message on slack is preferred\).
+* Contact the professor IN ADVANCE if you will not be in class \(in person or via email\).
 * Attendance is mandatory for the midterm and final presentations / critiques.
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
@@ -150,7 +148,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 * 5% [Self Assessments](assignments/self-assessments.md) \(2.5% each\)
 * 10% [Notebook or Sketchbook](assignments/notebook-or-sketchbook.md)
 * 12% [Constant Input Choices](assignments/constant-input-or-output.md)
-* 14% [Process Website](assignments/process-website.md)
+* 14% [Process Blog](assignments/process-blog.md)
 * 20% [Future Dystopia / Utopia Project](projects/future-dystopia-utopia-project.md)
 * 31% [Creative Process Annotated Bibliography & Video Documentary](projects/creative-process-annotated-bibliography-and-video-documentary.md)
 
@@ -234,7 +232,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 * [Constant Input Choices](assignments/constant-input-or-output.md)
 * [Personal Inventory](assignments/personal-inventory.md)
 * [Input Map](assignments/inputs-map.md)
-* [Process Website](assignments/process-website.md)
+* [Process Blog](assignments/process-blog.md)
 * [Love Letter or Breakup Letter](assignments/love-letter-or-breakup-letter.md)
 * [Object Evolution Timeline](assignments/evolution-timeline.md)
 * [Notebook or Sketchbook](assignments/notebook-or-sketchbook.md)

@@ -34,7 +34,7 @@
 Discuss:
 <ul>
 <li>Assignment: Constant Input or Output. Choose!</li>
-<li>Assignment: Process Website</li>
+<li>Assignment: Process Blog</li>
 <li>Assignment: Personal Inventories</li>
 
 </ul>
@@ -85,25 +85,24 @@ Discuss:
 
 <!-- write -->
 <tr>
-<td>Write (on your process website)</td>
+<td>Write (on your process blog)</td>
 <td></td>
-<td>Write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos.</td>
+<td>Write responses to at least three classmates’ personal inventories on your process blog. Compare and contrast. Include links to their videos.</td>
 </tr>
 
 <!-- do -->
 <tr>
   <td valign="top">Do</td>
   <td valign="top"><ul>
-  <li>Accept Slack Invitation</li>
   </ul></td>
   <td valign="top">
   <ul>
   <li>Read Syllabus and Ask Questions about the course and syllabus during class</li>
   <li>Read or View <a href="https://drive.google.com/open?id=0B3GbS-Wqk2AHODlPWXVQWkFBNGM"  target="_blank">Letters for the Next Cohort from Spring 2017</a> with your NYU google account</li>
-  <li>Get setup with a <a href="process_website.md" target="_blank">process website</a> to post your homework</li>
+  <li>Get setup with a <a href="process_website.md" target="_blank">process blog</a> to post your homework</li>
   <li>Email Clarisa your blog URL</li>
   <li>Read <a href="http://teaching.polishedsolid.com/ip/mod1/content/index.html" target="_blank">Module 1</a></li>
-  <li>Create your first post on your process website; post your constant input or output details (what are you going to do?) including proposed schedule (when? actual dates. make due dates tuesdays.)</li>
+  <li>Create your first post on your process blog; post your constant input or output details (what are you going to do?) including proposed schedule (when? actual dates. make due dates tuesdays.)</li>
   </td>
 </table>
 

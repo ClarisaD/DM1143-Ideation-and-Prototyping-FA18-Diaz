@@ -7,7 +7,7 @@
 * [Constant Input Choices](constant-input-or-output.md)
 * [Personal Inventory](personal-inventory.md)
 * [Input Map](inputs-map.md)
-* [Process Website](process-website.md)
+* [Process Blog](process-blog.md)
 * [Love Letter or Breakup Letter](love-letter-or-breakup-letter.md)
 * [Evolution Timeline](evolution-timeline.md)
 * [Notebook or Sketchbook](notebook-or-sketchbook.md)
