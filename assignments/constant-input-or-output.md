@@ -43,7 +43,7 @@ Remember, your project does not need to be digital or visual. It could be aural 
   * If weekly, at least 12 times
   * If bi-weekly, at least 6 times
   * If monthly, at least 3 times
-* Post or embed within your process blog your chosen schedule with specific dates and share the link with your instructor.
+* Post or embed within your process blog your chosen schedule with specific dates and email the link to Clarisa.
 * For further reference and inspiration regarding the constant outputs option, check out some of these projects from creators working in vastly different media::
   * [Michael Bierut Five Years of 100 Days](http://designobserver.com/feature/five-years-of-100-days/24678)
   * [Stefan G. Bucher’s Daily Monster](http://www.dailymonster.com/344_loves_you/monsterarchive.html)

@@ -11,7 +11,7 @@
 5. Final Self Assessment
 6. Letter or Video To Next Cohort
 
-### Create a google drive folder, I&P Fall 2018 and share with clarisa.diaz@nyu.edu
+### In the course Google Drive folder, I&P Fall 2018, find the subfolder with your name. Fill your folder
 
 with the following files and
 
@@ -41,13 +41,13 @@ All students must include:
 
 ### Final Rubric AND Final Self Assessment
 
-_Include in google drive folder, I&P Fall 2018_
+_Include in Google Drive folder, I&P Fall 2018_
 
-* Emailed to instructor.
+* Emailed to Clarisa.
 
 ### Letter or Video to Next Cohort
 
-_Include in google drive folder, I&P Fall 2018_
+_Include in Google Drive folder, I&P Fall 2018_
 
 * Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.
 

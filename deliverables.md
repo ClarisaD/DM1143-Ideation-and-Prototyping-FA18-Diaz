@@ -12,7 +12,7 @@
 <li>Letter or Video To Next Cohort</li>
 </ol>
  
-##Create a google drive folder, I&P Fall 2016 
+##In the course Google Drive folder, I&P Fall 2018, find the subfolder with your name. Fill your folder 
 
 with the following files and 
 <ul>
@@ -24,11 +24,11 @@ with the following files and
 (if applicable) constant input folder with native files:
 
 ## Final Self Assessment
-*Include in google drive folder, I&P Fall 2018*
+*Include in Google Drive folder, I&P Fall 2018*
 
-Emailed to instructor.
+Emailed to Clarisa.
 
 ## Letter or Video to Next Cohort
-*Include in google drive folder, I&P Fall 2016*
+*Include in Google Drive folder, I&P Fall 2018*
 
 Write a letter to the next class or create a 1-2 minute video, giving them advice on how to reach their learning goals and get value out of this course.

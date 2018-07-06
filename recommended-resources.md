@@ -45,6 +45,21 @@ _Design_
 * _Exposing the Magic of Design: A Practitioner’s Guide to the Methods and Theory of Synthesis_ by Jon Kolko
 * _Gamestorming: A Playbook for Innovators, Rulebreakers, and Changemakers_ by Dave Gray, Sunni Brown, and James Macanufo
 * _Universal Methods of Design_ by Bella Martin and Bruce Hanington
+* _Universal Principles of Design_ by William Lidwell, Kritina Holden and Jill Butler
+* _Designerly Ways of Knowing_ by Nigel Cross
+
+_Visualization_
+* _Critical Visualization_ by Peter Hall
+* _Narcotic of the Narrative_ by Ward Shelley
+* _Making and Breaking the Grid: A Graphic Design Workshop_ by Timothy Samara
+* _Beautiful Evidence_ by Edward Tufte
+* _Visual Explanations: Images and Quantities, Evidence and Narrative_ by Edward Tufte
+* _Wordless Diagrams_ by Nigel Holmes
+* _Interaction of Color_ by Josef Albers
+
+_Typography_
+* _The Elements of Typographic Style_ by Robert Bringhurst
+* _Thinking with Type_ by Roland Barthes
 
 _Ethnography_
 
@@ -58,17 +73,19 @@ _Sketching_
 
 * _Blah Blah Blah_ by Dan Roam
 * _Unfolding The Napkin_ by Dan Roam
+* _Drawing on the Right Side of the Brain_ by Betty Edwards
 
 _Mapping_
 
 * _Web Redesign 2.0 \| Workflow That Works_ by Kelly Goto & Emily Cotler
 * _How to Make Sense of Any Mess: Information Architecture for Everybody 1.0 Edition_ by Abby Covert 
-* Any Edward Tufte book
+* Any Edward Tufte book 
 
 _Prototyping_
 
 * [Getting Real](http://gettingreal.37signals.com) by 37Signals 
 * _Show Your Work_ by Austin Kleon
+* _What do Prototypes Prototype?_ by Stephanie Houde and Charles Hill
 
 **Recommended Writing Resources**
 
