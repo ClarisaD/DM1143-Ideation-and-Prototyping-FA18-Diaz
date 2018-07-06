@@ -1,6 +1,7 @@
 # Table of contents
 
-* Welcome to Ideation and Prototyping! <iframe src="https://giphy.com/embed/ASd0Ukj0y3qMM" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<!-- * Welcome to Ideation and Prototyping! <iframe src="https://giphy.com/embed/ASd0Ukj0y3qMM" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+ -->
 * [Syllabus](syllabus.md)
 * [Schedule](schedule/README.md)
   * [Week 1 Detail Sep 04](schedule/week-1-detail-sep-04.md)
