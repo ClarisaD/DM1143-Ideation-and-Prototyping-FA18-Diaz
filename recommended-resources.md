@@ -47,6 +47,7 @@ _Design_
 * _Universal Methods of Design_ by Bella Martin and Bruce Hanington
 * _Universal Principles of Design_ by William Lidwell, Kritina Holden and Jill Butler
 * _Designerly Ways of Knowing_ by Nigel Cross
+* [18F Method Cards](https://methods.18f.gov/) \(available free online\)
 
 _Visualization_
 * _Critical Visualization_ by Peter Hall

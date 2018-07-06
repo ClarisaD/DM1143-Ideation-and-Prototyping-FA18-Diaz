@@ -202,7 +202,7 @@ _The following list of required readings may be incomplete and is subject to cha
 * Rohde, Mike. [Sketching: the Visual Thinking Power Tool](http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/) A List Apart. January 25, 2011. 
 * Trollbäck, Jakob. [One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/) HOW Design. 23 Jan. 2008. 
 * [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) \(available free online\)
-* [18F](https://methods.18f.gov/) \(available free online\)
+
 
 
 ### REQUIRED MEDIA
