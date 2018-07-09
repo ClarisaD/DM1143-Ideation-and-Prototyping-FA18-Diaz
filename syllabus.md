@@ -144,7 +144,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 **Quantitative Grading Overview**
 
-* 2% [Influences and Interestss Collage](assignments/influences-and-interests-collage.md)
+* 2% [Influences and Interests Collage](assignments/influences-and-interests-collage.md)
 * 2% [Love Letter or Breakup Letter](assignments/love-letter-or-breakup-letter.md)
 * 4% [Object Evolution Timeline](assignments/evolution-timeline.md)
 * 5% [Self Assessments](assignments/self-assessments.md) \(2.5% each\)
@@ -230,7 +230,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 
 * [Constant Input or Output Choices](assignments/constant-input-or-output.md)
 * [Personal Inventory](assignments/personal-inventory.md)
-* [Influences and Interestss Collage](assignments/influences-and-interests-collage.md)
+* [Influences and Interests Collage](assignments/influences-and-interests-collage.md)
 * [Process Blog](assignments/process-blog.md)
 * [Love Letter or Breakup Letter](assignments/love-letter-or-breakup-letter.md)
 * [Object Evolution Timeline](assignments/evolution-timeline.md)

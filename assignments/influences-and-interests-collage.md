@@ -1,8 +1,8 @@
-# Influences and Interestss Collage
+# Influences and Interests Collage
 
 ### Fall 2018 • Clarisa Diaz • Tuesdays and Thursdays • 8:30-10:20am • 2MTC MAGNET 811
 
-## Influences and Interestss Collage
+## Influences and Interests Collage
 
 Create a "mind map" or "concept map" of all of the various inputs in your life.  This should cover the total range of what comes into you from outside of your own imagination. What interests you? Where did it come from? Post your collage to your process blog. 
 
