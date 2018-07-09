@@ -204,7 +204,6 @@ _The following list of required readings may be incomplete and is subject to cha
 * [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) \(available free online\)
 
 
-
 ### REQUIRED MEDIA
 
 _The following list of required media may be incomplete and is subject to change. Supplemental media may also be recommended during the course. Please see the course website for updates._
