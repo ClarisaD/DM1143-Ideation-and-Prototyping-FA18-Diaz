@@ -61,7 +61,7 @@ Discuss:
   </ul>
   <li>Planners &amp; Journals</li>
   <li>Assignment: Notebook or Sketchbook</li>
-  <li>Assignment: Influence and Interests Collage</li>
+  <li>Assignment: Influences andInterests Collage</li>
   <li>(if time) Midterm and Final Project</li>
 </ul>
 </td>
