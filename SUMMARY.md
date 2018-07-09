@@ -22,7 +22,7 @@
   * [Notebook or Sketchbook](assignments/notebook-or-sketchbook.md)
   * [Constant Input or Output](assignments/constant-input-or-output.md)
   * [Personal Inventory](assignments/personal-inventory.md)
-  * [Influences andInterests Collage](assignments/influences-and-interests-collage.md)
+  * [Influences and Interests Collage](assignments/influences-and-interests-collage.md)
   * [Classmate Discoveries](assignments/classmate-discovery.md)
   * [Love Letter or Breakup Letter](assignments/love-letter-or-breakup-letter.md)
   * [Evolution Timeline](assignments/evolution-timeline.md)
