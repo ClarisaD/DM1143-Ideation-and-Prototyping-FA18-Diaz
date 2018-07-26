@@ -1,6 +1,6 @@
 # Week 10 Detail Nov 7
 
-### Fall 2018 • Clarisa Diaz • Tuesdays and Thursdays • 8:30-10:20am • 2MTC MAGNET 811
+### Fall 2018 • Clarisa Diaz • Tuesdays and Thursdays • 8:30-10:20am • 2MTC MAGNET 813
 
 ## [Schedule:](./) Week 10
 

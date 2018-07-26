@@ -6,7 +6,7 @@
 
 ```text
 Clarisa Diaz • clarisa.diaz@nyu.edu • Fall 2018 
-Tuesdays & Thursdays • 8:30AM-10:20AM • 2MTC MAGNET 811 • 3 credit hrs
+Tuesdays & Thursdays • 8:30AM-10:20AM • 2MTC MAGNET 813 • 3 credit hrs
 ```
 
 #### Office hours by appointment or directly after class.
