@@ -6,7 +6,7 @@
 
 ## Creative Process Annotated Bibliography & Video Documentary
 
-Working in groups of two, you will research, analyze, evaluate, and communicate the research & design processes of a creator from a discipline of your team’s choice. The final form of this research project will be an annotated bibliography and video project of 1 to 3 minutes in length.
+Working in groups of two, you will research, analyze, evaluate, and communicate the research & design processes of a creator from a discipline of your team’s choice. The final form of this research project will be an annotated bibliography and video project of 3 to 5 minutes in length.
 
 Choose a creator that you think has an interesting process. This person should have an influence on developing your own creative process.
 
