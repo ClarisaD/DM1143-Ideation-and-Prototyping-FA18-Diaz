@@ -6,11 +6,14 @@
 
 ## Creative Process Annotated Bibliography & Video Documentary
 
-Working in groups of two, you will research, analyze, evaluate, and communicate the research & design processes of a creator from a discipline of your team’s choice. The final form of this research project will be an annotated bibliography and video documentary of 1 to 3 minutes in length.
+Working in groups of two, you will research, analyze, evaluate, and communicate the research & design processes of a creator from a discipline of your team’s choice. The final form of this research project will be an annotated bibliography and video project of 1 to 3 minutes in length.
+
+Choose a creator that you think has an interesting process. This person should have an influence on developing your own creative process.
 
 | Student | Creator |
-| --- | --- |
-
+| Halenur & Shipon | Kanye West |
+| Joel & Yuening | Wes Anderson|
+| Loki & Jessica | Hayao Miyazaki|
 
 Possible Choices \(but not limited to\):
 
@@ -103,7 +106,7 @@ The key to your research is a proliferation of references on your subject, parti
 
 ### Annotated Bibliography
 
-You will write an annotated bibliography as a team. I recommend using google docs to collaboratively write. The bare minimum of sources is five.
+You will write an annotated bibliography as a team. I recommend using google docs to collaboratively write. The bare minimum of sources is ten. You will be graded based on the thoroughness of your research.  You should have many different types of sources in your bibliography.  These sources should have an impact on the work you create.
 
 Using [Purdue OWL Annotated Bibliography Guidelines](https://owl.english.purdue.edu/owl/resource/614/01/), summarize, assess, and reflect.
 
