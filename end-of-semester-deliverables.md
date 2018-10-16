@@ -6,8 +6,8 @@
 
 1. Future Dystopia Utopia Documentation
 2. Creative Process Annotated Bibliography & Video/Animatic
-3. \(If Applicable\) Constant Input on Blog
-4. \(If Applicable\) Constant Output on Blog
+3. \(If Applicable\) Constant Input on Blog and Native Files in Google Drive
+4. \(If Applicable\) Constant Output on Blog and Native Files in Google Drive
 5. Midterm and Final Self Assessment/Rubric
 6. Letter or Video to Next Cohort 
 7. Teaching Feedback for Next Cohort
@@ -18,6 +18,7 @@ with the following files and
 
 * Future Dystopia Utopia Documentation \(which is different for every student\). See Below
 * Creative Process Annotated Bibliography \(.pdf, .doc\) & Video/Animatic \(.mov, .mp4, etc\)
+* Constant Input/Output - Native Files in Google Drive (work files you made your work in + posted image/audio/video)
 * Midterm & Final Self-Assessment/Rubric as pdf
 * Letter as pdf or Video To Next Cohort \(.mov, .mp4, etc\)
 * Teaching Feedback as pdf
