@@ -5,22 +5,22 @@
 ## END OF SEMESTER DELIVERABLES
 
 1. Future Dystopia Utopia Documentation
-2. Creative Process Annotated Bibliography & Video Documentary
-3. \(If Applicable\) Constant Input Native Files
-4. Final Rubric
-5. Final Self Assessment
-6. Letter or Video To Next Cohort
+2. Creative Process Annotated Bibliography & Video/Animatic
+3. \(If Applicable\) Constant Input on Blog
+4. \(If Applicable\) Constant Output on Blog
+5. Midterm and Final Self Assessment/Rubric
+6. Letter or Video to Next Cohort 
+7. Teaching Feedback for Next Cohort
 
 ### In the course Google Drive folder, I&P Fall 2018, find the subfolder with your name. Fill your folder
 
 with the following files and
 
 * Future Dystopia Utopia Documentation \(which is different for every student\). See Below
-* Creative Process Annotated Bibliography \(.pdf, .doc\) & Video Documentary \(.mov, .mp4, etc\)
-* \(if applicable\) with constant input folder with native files
-* Final Rubric as pdf
-* Final Self Assessment as pdf
+* Creative Process Annotated Bibliography \(.pdf, .doc\) & Video/Animatic \(.mov, .mp4, etc\)
+* Midterm & Final Self-Assessment/Rubric as pdf
 * Letter as pdf or Video To Next Cohort \(.mov, .mp4, etc\)
+* Teaching Feedback as pdf
 
 ### Future Dystopia Utopia Documentation
 
