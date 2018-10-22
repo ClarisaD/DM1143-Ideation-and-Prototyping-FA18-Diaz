@@ -10,7 +10,7 @@ Working in groups of two, you will research, analyze, evaluate, and communicate 
 
 Choose a creator that you think has an interesting process. This person should have an influence on developing your own creative process.
 
-| Student Joel & Yuening, Ibtida &amp; Marco, Loki &amp; Jessica, Vida &amp; Tejah, Al &amp; Behnam, Darshana &amp; Tina, Rebecca &amp; Oliwia, Michael, Halenur &amp; Shipon, Blake| Creator Wes Anderson, Marina Abramovic, Hayao Miyazaki, Damien Hirst, Abbas Kiarostami, Tim Burton, Pendleton Ward, Banksy, Kanye West, Stanley Kubrick|
+| Student Joel &amp; Yuening, Ibtida &amp; Marco, Loki &amp; Jessica, Vida &amp; Tejah, Al &amp; Behnam, Darshana &amp; Tina, Rebecca &amp; Oliwia, Michael, Halenur &amp; Shipon, Blake| Creator Wes Anderson, Marina Abramovic, Hayao Miyazaki, Damien Hirst, Abbas Kiarostami, Tim Burton, Pendleton Ward, Banksy, Kanye West, Stanley Kubrick|
 
 
 Possible Choices \(but not limited to\):
