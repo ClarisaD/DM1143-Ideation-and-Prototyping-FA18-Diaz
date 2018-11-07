@@ -7,4 +7,4 @@
 | wk | Tuesdays \(due on date listed\) | Thursdays \(due on date listed\) |
 | --- | --- | --- | --- | --- | --- |
 | **15** | **Dec 11** | **Dec 13** |
-| **class** | Future Dystopia / Utopia Project finishing touches|  Final In Class Presentations of Future Dystopia/Utopia Project, Annotated Bibliography DUE|
+| **class** | **Future Dystopia/Utopia Project, Annotated Bibliography DUE** Final Class Presentation Group A|  Final In Class Presentations Group B|
