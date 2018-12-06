@@ -28,7 +28,6 @@ with the following files and
 All students must include:
 
 * **Annotated Bibliography** of research submitted as pdf or word doc
-* **Framing Story** as pdf or word doc
 * **Message** as pdf or word doc \(can be combined in the same document as the framing story or submitted as two separate documents\)
 * Photo Documentation of **Object\(s\)** Prototypes
   * **at least\*** 3 images of your object\(s\), showcasing overview\(s\) and detail\(s\)
